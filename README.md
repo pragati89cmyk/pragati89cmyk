@@ -9,7 +9,7 @@ I'm a CSE student passionate about programming, problem-solving, and building re
 - **Frontend:** HTML, CSS, React
 - **Backend:** Core Java, JDBC, REST APIs
 - **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code , IntelliJ Idea
 
 ### 🚀 My Projects
 - **KisanMitra:** A farmer-focused application using Java, JDBC and MySQL.
