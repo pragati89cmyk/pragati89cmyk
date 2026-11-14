@@ -22,6 +22,17 @@ I'm a CSE student passionate about programming, problem-solving, and building re
 - Database Management Systems
 - Backend Development
 
+### Data Structures & Algorithms**
+- Arrays and Strings
+- HashMap and HashSet
+- Two Pointers and Sliding Window
+- Prefix Sum and Subarray Problems
+- XOR Operations and Bit Manipulation Basics
+- Recursion Fundamentals
+- Kadane's Algorithm
+- Brute-force Problem Solving and Time Complexity Analysis
+
+**Programming Language:** Java
 ## LeetCode Profile : https://leetcode.com/u/pragati007_-89/
 
 ### 🎯 My Goal
