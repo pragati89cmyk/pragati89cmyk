@@ -5,7 +5,7 @@
 I'm a CSE student passionate about programming, problem-solving, and building real-world applications.
 
 ### 💻 Technical Skills
-- **Languages:** Java, JavaScript, SQL
+- **Languages:** Java, JavaScript, SQL , C , Python 
 - **Frontend:** HTML, CSS, React
 - **Backend:** Core Java, JDBC, REST APIs
 - **Database:** MySQL
