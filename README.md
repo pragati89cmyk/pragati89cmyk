@@ -22,6 +22,8 @@ I'm a CSE student passionate about programming, problem-solving, and building re
 - Database Management Systems
 - Backend Development
 
+## LeetCode Profile : https://leetcode.com/u/pragati007_-89/
+
 ### 🎯 My Goal
 To become a skilled software engineer by building meaningful projects and continuously improving my coding skills.
 <!--
